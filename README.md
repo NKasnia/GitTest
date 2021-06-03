@@ -1,2 +1,2 @@
 # GitTest
-To learn Git and GitHub
+To learn Git and GitHub Practically
